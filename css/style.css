@@ -52,3 +52,10 @@ header.shadow .logo {
 .navbar .home-active::after {
   width: 100%;
 }
+
+/* home */
+.home {
+  background: url("../img/home3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
